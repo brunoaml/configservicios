@@ -10,4 +10,4 @@ spring:
         implicit-strategy: org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyJpaImpl
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
 eureka.client.serviceUrl.defaultZone: http://localhost:8761/eureka
-server.port: 8000
+server.port: 8001
